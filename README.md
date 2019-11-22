@@ -5,6 +5,29 @@ git clone https://github.com/H4ckForJob/dirmap.git && cd dirmap && python3 -m pi
 python3 dirmap.py -i 192.168.1.0/24 -lcf
 python3 dirmap.py -iF targets.txt -lcf
 
+
+
+python3 dirmap.py -i 204.8.100.0/24  -lcf
+python3 dirmap.py -i 204.8.101.0/24  -lcf
+python3 dirmap.py -i 204.8.102.0/24  -lcf
+python3 dirmap.py -i 204.8.108.0/24  -lcf
+python3 dirmap.py -i 204.8.109.0/24  -lcf
+python3 dirmap.py -i 204.8.110.0/24  -lcf
+python3 dirmap.py -i 204.8.111.0/24  -lcf
+python3 dirmap.py -i 204.8.116.0/22  -lcf
+python3 dirmap.py -i 204.8.52.0/22   -lcf
+python3 dirmap.py -i 204.8.60.0/22 -lcf
+python3 dirmap.py -i 204.8.68.0/22 -lcf
+python3 dirmap.py -i 204.8.76.0/22 -lcf
+python3 dirmap.py -i 204.8.84.0/22 -lcf
+python3 dirmap.py -i 204.8.92.0/22 -lcf
+python3 dirmap.py -i 216.181.1.0/24 -lcf
+python3 dirmap.py -i 216.181.100.0/24 -lcf
+python3 dirmap.py -i 216.181.101.0/24 -lcf
+python3 dirmap.py -i 216.181.102.0/24 -lcf
+python3 dirmap.py -i 216.181.103.0/24 -lcf
+python3 dirmap.py -i 216.181.104.0/24 -lcf
+
 <!--
  * @Author: xxlin
  * @Date: 2019-04-11 20:34:14
