@@ -1,3 +1,10 @@
+sudo apt-get -y install python3-pip
+apt install python-pip
+git clone https://github.com/H4ckForJob/dirmap.git && cd dirmap && python3 -m pip install -r requirement.txt
+
+python3 dirmap.py -i 192.168.1.0/24 -lcf
+python3 dirmap.py -iF targets.txt -lcf
+
 <!--
  * @Author: xxlin
  * @Date: 2019-04-11 20:34:14
